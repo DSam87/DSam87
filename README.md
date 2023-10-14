@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Next.js and React Development.
+- ❤️ My preferred stack is MERN. |MongoDB|Express|React|NodeJS|
+- ❤️ My preferred library for building UI/UX is React.
 - 📫 Deleonsam87@gmail.com
   
 
