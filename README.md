@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **MERN** | **REACT** | **UI/UX** | **Front-end Development**
 
-- ❤️ My preferred library for UI/UX is React. ❤️
+- ❤️ My preferred UI/UX library is React. ❤️
 
 - 📫 How to reach me **deleonsam87@gmail.com**
 
