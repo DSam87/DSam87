@@ -6,7 +6,7 @@
 
 - 👨‍💻 My Portfolio is available at [https://sam-caballero-deleon-portfolio-one.vercel.app/](https://sam-caballero-deleon-portfolio-one.vercel.app/)
 
-- 💬 Ask me about **MERN** **REACT** **UI/UX** **Front-end Development**
+- 💬 Ask me about **MERN** | **REACT** | **UI/UX** | **Front-end Development**
 
 - ❤️ My preferred library for UI/UX is React. ❤️
 
