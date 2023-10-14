@@ -1,10 +1,3 @@
-### Hi, I'm Sam 👋
-
-- 🔭 I’m currently working with MERN, Next.js with a focus on React Development.
-- ❤️ My preferred stack is MERN. |MongoDB|Express|React|NodeJS| ❤️
-- ❤️ My preferred library for UI/UX is React. ❤️
-- 📫 Deleonsam87@gmail.com
-
 <h1 align="center">Hi 👋, I'm Sam Caballero</h1>
 <h3 align="center">A passionate frontend and fullstack developer from Texas</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif" />
