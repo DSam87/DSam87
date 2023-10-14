@@ -1,6 +1,6 @@
 ### Hi, I'm Sam 👋
 
-- 🔭 I’m currently working with MERN, Next.js and React Development.
+- 🔭 I’m currently working with MERN, Next.js with a focus on React Development.
 - ❤️ My preferred stack is MERN. |MongoDB|Express|React|NodeJS| ❤️
 - ❤️ My preferred library for UI/UX is React. ❤️
 - 📫 Deleonsam87@gmail.com
