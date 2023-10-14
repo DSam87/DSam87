@@ -11,9 +11,11 @@
 
 - 🔭 I’m currently working on **Chess For Everyone**
 
-- 👨‍💻 All of my projects are available at [https://sam-caballero-deleon-portfolio-one.vercel.app/](https://sam-caballero-deleon-portfolio-one.vercel.app/)
+- 👨‍💻 My Portfolio is available at [https://sam-caballero-deleon-portfolio-one.vercel.app/](https://sam-caballero-deleon-portfolio-one.vercel.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** **REACT** **UI/UX** **Front-end Development**
+
+- ❤️ My preferred library for UI/UX is React. ❤️
 
 - 📫 How to reach me **deleonsam87@gmail.com**
 
