@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sam 👋
 
 - 🔭 I’m currently working on Next.js and React Development.
 - ❤️ My preferred stack is MERN. |MongoDB|Express|React|NodeJS| ❤️
